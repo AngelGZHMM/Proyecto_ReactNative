@@ -14,3 +14,8 @@ Debemos acceder a la carpeta de react-native y establecer el comando:
 npmi
 Despues pondremos el comendo:
 npm start  y seleccionamos la opcion donde deseamos visualizarlo
+###Datos adicionales:
+usuario:root
+pasword:test
+###Enlace a github
+https://github.com/AngelGZHMM/Proyecto_ReactNative
