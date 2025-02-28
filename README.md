@@ -9,4 +9,8 @@ npm i
 Acto seguido haremos 
 npm run dev 
 para iniciar el backend
-
+## Iniciar Frontend
+Debemos acceder a la carpeta de react-native y establecer el comando:
+npmi
+Despues pondremos el comendo:
+npm start  y seleccionamos la opcion donde deseamos visualizarlo
